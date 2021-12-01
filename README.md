@@ -40,9 +40,7 @@ To exit the game, press ``ESC`` or click the red cross.
 
 The basic program that was required to pass. It only includes wall textures and a sprite ; no floor/ceiling textures, no weapons, no enemies, no game elements at all.
 
-<p align="center">
-  <img src="https://i.imgur.com/Vf1HLRE.png" width="60%" />
-</p>
+<img src="https://github.com/Sviridovamd/Cub3D/blob/main/112175931-f34c9f00-8bf7-11eb-8276-23382485172a.gif" width="40" height="40" />
 
 ### How to run it (mandatory part only)
 
