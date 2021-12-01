@@ -2,11 +2,9 @@
 
 First-person 3D representation of a maze using raycasting, similar to Wolfenstein 3D (1992).
 
-## Final grade : 115/115
+## Final grade : 100/100
 
 Mandatory part : 100/100
-
-Bonus : 15/15
 
 ### Prerequisites
 
@@ -35,8 +33,6 @@ To run it again without remaking, you can simply run the executable with ``./cub
 You can move around the maze with ``W`` ``A`` ``S`` ``D``.
 
 You can also rotate the view with the directional arrows ``←`` and ``→``.
-
-You can shoot/stab with ``SPACE`` and open doors with ``SHIFT``.
 
 To exit the game, press ``ESC`` or click the red cross.
 
